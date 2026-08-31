@@ -1,0 +1,7 @@
+{
+  "name": "TeachFlow AI",
+  "description": "Discover and purchase legitimate AI software tools, digital guides, courses and automation solutions for just ₹99.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
